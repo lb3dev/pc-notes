@@ -20,4 +20,4 @@
     - CPU Core Voltage: **1.300-1.400mv**
 
 ### Example OC Profile
-- 5.0Ghz All Core, -1 AVX (4.9Ghz), 1.360mv VCore, LLC4
+- 5.0Ghz All Core, -1 AVX (4.9Ghz), 1.365mv VCore, LLC4
